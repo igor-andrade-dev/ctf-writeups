@@ -1,0 +1,7 @@
+pandas
+scapy
+py7zr
+Pillow
+numpy
+cryptography
+Flask
